@@ -1,0 +1,9 @@
+pixelate = 128
+
+adv. screnshot=
+| angle: north
+| res: 1024x1024
+| zoom: disabled
+| AA: supersampling
+| show gizmos: disabled
+| shading: enabled
